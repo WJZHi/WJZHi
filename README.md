@@ -1,6 +1,6 @@
 # Hi!
 
-## I'm a 12's old programmer and stdent in china,
+## I'm a 12's old programmer and student in china,
 
 Really *nice* to see you in Github👋
 
