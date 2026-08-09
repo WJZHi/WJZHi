@@ -1,4 +1,4 @@
-### Hi, I'm wiodrakz 👋
+### Hi, I'm WJZHi 👋
 
 A young developer currently focused on **Agents** and building small useful tools, with a strong interest in **UI design**.
 
