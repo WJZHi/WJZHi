@@ -1,9 +1,11 @@
-# Hi!
+### Hi, I'm wiodrakz 👋
 
-## I'm a 13's old programmer and student in china,
+A young developer currently focused on **Agents** and building small useful tools, with a strong interest in **UI design**.
 
-Really *nice* to see you in Github👋
+Want to know more about me? Check out [wjzhi.pages.dev](https://wjzhi.pages.dev)
 
--I’m currently learning C++ and Python🌱
+---
 
--You can call me on +86 15807601931,and send E-mail to wjiazhi@outlook.com📫📱
+I strive for a polished, seamless experience, but oversights happen. If you spot a UI glitch or a logic bug, I'd really appreciate hearing about it: 📮 Hey_WJZHi@outlook.com
+
+Thanks so much 🙏
