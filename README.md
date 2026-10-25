@@ -2,7 +2,7 @@
 
 A young developer currently focused on **Agents** and building small useful tools, with a strong interest in **UI design**.
 
-Want to know more about me? Check out [wjzhi.pages.dev](https://wjzhi.pages.dev)
+Want to know more about me? Check out [wjzhi.com](https://wjzhi.com)
 
 ---
 
